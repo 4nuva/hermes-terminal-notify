@@ -1,0 +1,3 @@
+name: terminal-notify
+version: 1.0.0
+description: Desktop notifications through your terminal when Hermes finishes, asks a question or needs a permission. From the makers of Agent Terminal (https://4nuva.dev/agent-terminal/), which also forwards them to your phone.
